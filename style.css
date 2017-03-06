@@ -1,0 +1,43 @@
+.header {
+    width: 800px;
+    padding: 30px;
+    background-color: #ebebeb;
+    text-align: center;
+    font-family: Arial;
+    position: relative;
+    left: 18%;
+}
+
+.nav {
+    width: 800px;
+    padding: 30px;
+    background-color: #ebebeb;
+    text-align: center;
+    font-family: Arial;
+    position: relative;
+    left: 18%;
+    top: 10px;
+}
+
+.section {
+
+}
+
+.article {
+
+}
+
+.bottom {
+    width: 800px;
+    padding: 30px;
+    background-color: #ebebeb;
+    text-align: center;
+    font-family: Arial;
+    position: relative;
+    left: 18%;
+    top: 300px;
+}
+
+body {
+	background-color: #777777;
+}
